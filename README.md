@@ -22,12 +22,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-huddle-landing-page/assets/76695932/0570b2d1-065a-49fe-a3db-419c3ad81bd3)
 
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-huddle-landing-page/assets/76695932/6b5d4b25-533b-417d-bb3a-6c2c529244ac)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-huddle-landing-page)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-huddle-landing-page/)
 
 ## My process
 
